@@ -1,2 +1,2 @@
 # environment
-Personal development of minmul117
+Personal development environment for minmul117
