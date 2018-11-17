@@ -1,0 +1,8 @@
+[user]
+	name = GiSung Park
+	email = gdipig@gmail.com
+    username = minmul117
+[core]
+    editor = vim
+[commit]
+    verbose = true
