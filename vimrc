@@ -24,6 +24,10 @@ let g:lightline = {
 
 set noshowmode
 
+" Set serach highighting
+set hlsearch
+highlight Search cterm=none ctermfg=black
+
 " Syntax highlight on
 syntax on
 
